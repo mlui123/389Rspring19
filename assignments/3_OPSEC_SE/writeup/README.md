@@ -1,26 +1,16 @@
 # Writeup 3 - Operational Security and Social Engineering
 
-<<<<<<< HEAD
 Name: *Mitchell Lui*
 Section: *0101*
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
 
 Digital acknowledgement: *Mitchell Lui*
-=======
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
-
-I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
-
-Digital acknowledgement: *PUT YOUR NAME HERE*
->>>>>>> upstream/master
 
 ## Assignment Writeup
 
 ### Part 1 (40 pts)
 
-<<<<<<< HEAD
 I would pose as a bank employee and pretend that her account was has raised some alerts and that we are reaching out to improve her security. I would verify it is her by asking for her ATM pin number. I would tell her that for the future, we now require her mother's maiden name, the city she was born in and the name of her first pet for extra security. I would have her enter all this information on some made up website that simulates logging in to her bank account. This would allow me to see what browser she is using as well. 
 
 
@@ -34,10 +24,3 @@ For the publicly available robot.txt file, I would suggest making a PGP protecte
 2. https://www.tandfonline.com/doi/abs/10.1080/15424060903167377?src=recsys&journalCode=werm20 
 3. https://link.springer.com/referenceworkentry/10.1007%2F0-387-23483-7_310
  
-=======
-*Replace this text with your repsonse to our prompt for part 1!*
-
-### Part 2 (60 pts)
-
-*Replace this text with your repsonse to our prompt for part 1!*
->>>>>>> upstream/master
