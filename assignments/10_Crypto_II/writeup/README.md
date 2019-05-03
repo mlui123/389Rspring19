@@ -12,7 +12,8 @@ Digital acknowledgement: *Mitchell Lui*
 
 ### Part 1 (70 Pts)
 
-I used the commands "gpg --import key.asc" and "gpg --decrypt message.txt.gpg"
+I used the commands "gpg --import key.asc" to import the secret key. I used 
+"gpg --decrypt message.txt.gpg" to decrypt the message using the secret key.
 
 The flag that I found was CMSC389R-{m3ss@g3_!n_A_b0ttl3}.
 
